@@ -93,24 +93,27 @@ CLOUDINARY_API_SECRET=your_api_secret
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-![Hero Page](./screenshots/hero.png)
-![Event Page](./screenshots/event.png)
+![Hero Page](./screenshots/hero.jpg)
+![Event Page](./screenshots/event.jpg)
 
 ### 🔐 Login Page
-![Login Page](./screenshots/login.png)
+![Login Page](./screenshots/login.jpg)
 
 ### 📝 Register Page
-![Register Page](./screenshots/register.png)
+![Register Page](./screenshots/register.jpg)
 
 ### 📊 Dashboard
-![AdminDashboard](./screenshots/admindashboard.png)
-![UserDashboard](./screenshots/userdashboard.png)
+![AdminDashboard](./screenshots/admindashboard.jpg)
+![UserDashboard](./screenshots/userdashboard.jpg)
 
 ### 🎟️ Event Details Page
-![Event Details](./screenshots/event-details.png)
+![Event Details](./screenshots/eventdetail.jpg  )
 
 ### 📱 Mobile View
-![Mobile View](./screenshots/mobile.png)
+![Mobile View](./screenshots/mobileview.jpg)
+
+### 📱 Email Recieves
+![Emails](./screenshots/email.jpg)
 
 ---
 
