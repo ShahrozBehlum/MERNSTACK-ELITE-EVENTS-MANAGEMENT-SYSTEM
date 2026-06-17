@@ -27,6 +27,26 @@ The system provides separate dashboards for **Admin** and **Users**, enabling se
 
 ---
 
+## ⚙️ Environment Variables Setup
+
+Create a `.env` file in the root of your server and add the following variables:
+
+```env
+PORT=5000
+
+MONGODB_URI=your_mongodb_connection_string
+
+EMAIL_USER=your_email@example.com
+EMAIL_PASS=your_email_password_or_app_password
+
+JWT_SECRET=your_secret_key
+
+CLOUDINARY_CLOUD_NAME=your_cloud_name
+CLOUDINARY_API_KEY=your_api_key
+CLOUDINARY_API_SECRET=your_api_secret
+
+---
+
 ## 🔐 Authentication & Security
 - OTP verification during user signup
 - OTP confirmation on event booking
