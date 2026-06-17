@@ -90,13 +90,27 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 ---
 
-## 🎬 Demo Video
+## 📸 Project Screenshots
 
-Watch the complete working demo of **Elite Events Management System** below:
+### 🏠 Home Page
+![Hero Page](./screenshots/hero.png)
+![Event Page](./screenshots/event.png)
 
-[▶️ Click here to watch the Demo Video](./Demo%20Video/demo.mp4)
+### 🔐 Login Page
+![Login Page](./screenshots/login.png)
 
-> 📌 *The demo video showcases admin event management, user booking flow, OTP verification, booking approval, and real-time status updates.*
+### 📝 Register Page
+![Register Page](./screenshots/register.png)
+
+### 📊 Dashboard
+![AdminDashboard](./screenshots/admindashboard.png)
+![UserDashboard](./screenshots/userdashboard.png)
+
+### 🎟️ Event Details Page
+![Event Details](./screenshots/event-details.png)
+
+### 📱 Mobile View
+![Mobile View](./screenshots/mobile.png)
 
 ---
 
